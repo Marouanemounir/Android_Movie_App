@@ -194,8 +194,6 @@ Through this project, I practiced:
 
 ## 📸 Screenshots
 
-Add your screenshots here:
-
 ```markdown
 ![Home Screen](screenshots/home.png)
 ![Movie Details](screenshots/details.png)
