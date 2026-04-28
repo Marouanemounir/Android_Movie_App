@@ -26,7 +26,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String TMDB_API_KEY = "0a90254f8fb700c6cc99af9e65ae6c6e";
+    private static final String TMDB_API_KEY = "your api key";
     private static final String BASE_URL ="https://api.themoviedb.org/3/movie/popular";
     private static final String TAG = "MainActivity";
     private RecyclerView recyclerView;
